@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<parcel id="4078">
+    <id_person_from>111</id_person_from>
+    <id_person_to>222</id_person_to>
+    <delivery_time>123456</delivery_time>
+    <weight>111111</weight>
+    <dep_date>2016-09-18T13:34:44</dep_date>
+</parcel>

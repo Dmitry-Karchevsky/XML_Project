@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<parcels>
+    <parcel id="1">
+        <id_person_from>418</id_person_from>
+        <id_person_to>464</id_person_to>
+        <delivery_time>68</delivery_time>
+        <weight>2599</weight>
+        <dep_date>2016-09-18T13:34:44</dep_date>
+    </parcel>
+    <parcel id="2">
+        <id_person_from>440</id_person_from>
+        <id_person_to>460</id_person_to>
+        <delivery_time>80</delivery_time>
+        <weight>3000</weight>
+        <dep_date>2019-10-10T10:10:10</dep_date>
+    </parcel>
+</parcels>

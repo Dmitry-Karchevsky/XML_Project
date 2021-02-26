@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created with Liquid Studio 2020 (https://www.liquid-technologies.com) -->
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="parcels">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="parcel" minOccurs="0" maxOccurs="unbounded" >
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="id_person_from" type="xs:unsignedInt" minOccurs="1"/>
+              <xs:element name="id_person_to" type="xs:unsignedInt" minOccurs="1"/>
+              <xs:element name="delivery_time" type="xs:unsignedInt" minOccurs="1"/>
+              <xs:element name="weight" type="xs:unsignedInt" minOccurs="1"/>
+              <xs:element name="dep_date" type="xs:dateTime" minOccurs="1"/>
+            </xs:sequence>
+            <xs:attribute name="id" type="xs:unsignedInt" use="required" />
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

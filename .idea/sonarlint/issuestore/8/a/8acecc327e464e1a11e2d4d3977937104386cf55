@@ -1,0 +1,41 @@
+
+K
+java:S2209&"5Change this instance-reference to a static reference.(‘Éú‹
+J
+java:S3010*"/Remove this assignment of "applicationContext".(ÎÓôÍùÿÿÿÿ
+^
+java:S1128"HRemove this unused import 'org.springframework.context.annotation.Bean'.(‚î‰Ş
+J
+java:S2209'"5Change this instance-reference to a static reference.(Ü‰Ÿ}
+K
+java:S2209("5Change this instance-reference to a static reference.(ò‘›
+P
+java:S2209*"5Change this instance-reference to a static reference.(ÎÓôÍùÿÿÿÿ
+Q	java:S1257"<This block of commented-out lines of code should be removed.(Ëó‡«
+K
+java:S1068"5Remove this unused "countryRepository" private field.(‚Ôû‹
+Q	java:S125@"<This block of commented-out lines of code should be removed.(ê²«‘
+C
+java:S3010)"-Remove this assignment of "personRepository".(È«ƒ£
+Q
+java:S1444"6Make this "public static personRepository" field final(Ë†Â’ùÿÿÿÿ
+w
+java:S1104"\Make personRepository a static final constant or non-public and provide accessors if needed.(Ë†Â’ùÿÿÿÿ
+D
+java:S3010&".Remove this assignment of "countryRepository".(‘Éú‹
+H
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
+Q	java:S125E"<This block of commented-out lines of code should be removed.(œ³¬Ç
+V	java:S125N"<This block of commented-out lines of code should be removed.(Öñ›†øÿÿÿÿ
+J
+java:S1068"4Remove this unused "parcelRepository" private field.(İÂôÂ
+@
+java:S3010("*Remove this assignment of "parcelService".(ò‘›
+B
+java:S3010'"-Remove this assignment of "parcelRepository".(Ü‰Ÿ}
+V	java:S125H"<This block of commented-out lines of code should be removed.(³ÜÛ´ùÿÿÿÿ
+Q	java:S125P"<This block of commented-out lines of code should be removed.(–Š•¹
+X
+java:S1128"BRemove this unused import 'mainpack.adapter.LocalDateTimeAdapter'.(®ƒÁ‚
+K
+java:S2209)"5Change this instance-reference to a static reference.(È«ƒ£
